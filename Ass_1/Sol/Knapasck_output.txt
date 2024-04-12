@@ -1,0 +1,12 @@
+Test Case #1
+Total Weight : 11
+Total Value : 52
+Elements Count : 4
+(4 , 1)  (1 , 22)  (3 , 23)  (3 , 6)  
+
+Test Case #2
+Total Weight : 10
+Total Value : 27
+Elements Count : 1
+(10 , 27)  
+

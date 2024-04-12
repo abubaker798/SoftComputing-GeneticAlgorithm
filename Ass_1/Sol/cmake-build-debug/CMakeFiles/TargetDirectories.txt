@@ -1,0 +1,3 @@
+D:/Semester7/softComputing/ass/ass1/cmake-build-debug/CMakeFiles/ass1.dir
+D:/Semester7/softComputing/ass/ass1/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Semester7/softComputing/ass/ass1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
